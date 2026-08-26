@@ -13,7 +13,7 @@ export default function Index() {
             </Text>
 
             <Botao
-                onPress={() => router.push('/nova' as never)}
+                onPress={() => router.push('/tails' as never)}
             >
                 Ir para Tela Nova
             </Botao>
